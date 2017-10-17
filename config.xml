@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.kku.elearning"
+        id        = "it.kvc.elearning"
         versionCode = "20160804"
         version   = "1.0.0">
-    <name>KKU e-Learning</name>
+    <name>KVC e-Learning</name>
 
     <description>
-        Khon Kaen University e-Learning Mobile App
+        Khon Kaen Vocation College e-Learning Mobile App
     </description>
 
-    <author href="https://e-learning.kku.ac.th" email="ilti.elearning@kku.ac.th">
-        KKU e-Learning Support
+    <author href="https://202.29.238.158/moodle3" email="kruded@kvc.ac.th">
+        KVC e-Learning Support
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
