@@ -4,7 +4,7 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "it.kvc.elearning"
         versionCode = "20160804"
-        version   = "1.0.0">
+        version   = "1.0.1">
     <name>KVC e-Learning</name>
 
     <description>
